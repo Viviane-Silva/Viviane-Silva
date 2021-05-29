@@ -7,8 +7,14 @@
 
 ### Meu objetivo profissional é ser programadora Front End 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-Silva&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viviane-Silva&show_icons=true)
-</br>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viviane-Silva&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viviane-Silva&repo=convoychat" />
+</a>
 </br>
 
   <h1>Social Media</h1>
