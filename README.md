@@ -6,9 +6,11 @@
 ### Atualmente estou fazendo o curso da Udemy de Desenvolvedor Web Completo + projetos, com foco inicial nas linguagens Java Script e PHP.
 
 ### Meu objetivo profissional é ser programadora Front End 😄
+
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viviane-Silva)](https://github.com/anuraghazra/github-readme-stats)
 
-</br></br></br>
+</br></br>
+
   <h1>Social Media</h1>
   <a href="https://www.linkedin.com/in/viviane-leite-da-silva-73348b67/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
