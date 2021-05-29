@@ -5,7 +5,7 @@
 
 ### Atualmente estou fazendo o curso da Udemy de Desenvolvedor Web Completo + projetos, com foco inicial nas linguagens Java Script e PHP.
 
-### A meta é ser programadora Front End :)
+### A meta é ser programadora Front End 😄
 
 </br></br></br>
   <h1>Social Media</h1>
