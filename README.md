@@ -9,10 +9,10 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Viviane-Silva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viviane-Silva&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Viviane-Silva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viviane-Silva&repo=convoychat" />
 </a>
 </br>
