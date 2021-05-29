@@ -6,6 +6,8 @@
 ### Atualmente estou fazendo o curso da Udemy de Desenvolvedor Web Completo + projetos, com foco inicial nas linguagens Java Script e PHP.
 
 ### Meu objetivo profissional é ser programadora Front End 😄
+</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viviane-Silva)](https://github.com/Viviane-Silva/github-readme-stats)
 
 </br></br></br>
   <h1>Social Media</h1>
