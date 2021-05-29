@@ -14,6 +14,9 @@
 <a href="https://github.com/Viviane-Silva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Viviane-Silva&repo=convoychat"/></a>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 </br>
 
   <h1>Social Media</h1>
