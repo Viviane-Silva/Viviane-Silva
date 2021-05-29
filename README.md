@@ -7,8 +7,10 @@
 
 ### Meu objetivo profissional é ser programadora Front End 😄
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viviane-Silva&show_icons=true)
+
 </br>
-(https://github-readme-stats.vercel.app/api?username=Viviane-Silva&show_icons=true&theme=radical)
+
 
 
 </br></br>
