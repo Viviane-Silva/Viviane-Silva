@@ -5,7 +5,7 @@
 
 ### Atualmente estou fazendo o curso da Udemy de Desenvolvedor Web Completo + projetos, com foco inicial nas linguagens Java Script e PHP.
 
-### Meu objetivo profissional é ser programadora Front End 😄
+### 😄
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-Silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
