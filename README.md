@@ -1,7 +1,7 @@
 
 # Bem vindo(a) ao meu GitHub!
 
-### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante de jogos mobile.
+### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante da programação.
 
 ### Atualmente estou fazendo o curso da Udemy de Desenvolvedor Web Completo + projetos, com foco inicial nas linguagens Java Script e PHP.
 
