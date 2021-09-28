@@ -10,7 +10,6 @@
 
 ### Atualmente estou fazendo o curso da Digital Innovation One com foco na linguagem Java.
     #### Também tenho conhecimento em Javascript e PHP.
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" width="110" height="40">
     
 
 ### 😄
