@@ -9,7 +9,7 @@
 ### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante da programação.
 
 ### Atualmente estou fazendo o curso da Digital Innovation One com foco na linguagem Java.
-    #### Também tenho conhecimento em Javascript e PHP.
+### Também tenho conhecimento em Javascript e PHP.
     
 
 ### 😄
