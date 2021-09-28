@@ -1,5 +1,10 @@
-
-# Bem vindo(a) ao meu GitHub!
+# Olá!
+<div> 
+  <h1 align="center">
+    :wave: Você chegou ao meu perfil do Github! 
+  <img src="https://media.giphy.com/media/HzKucfKekPlCF7CMI4/giphy.gif" width="50" height="50">
+   <h1>
+</div>
 
 ### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante da programação.
 
