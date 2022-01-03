@@ -2,14 +2,14 @@
 <div> 
   <h1 align="center">
     :wave: Bem vindo ao meu perfil do Github! 
-  <img src="https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/cLwVyXaOzeOIl70Ecx/giphy.gif" width="50" height="50">
    <h1>
 </div>
 
 ### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante da programação.
 
-### Atualmente estou fazendo o curso da Digital Innovation One com foco na linguagem Java.
-### Também tenho conhecimento em PHP, JavaScript, CSS, HTML e BootStrap.
+### Atualmente estou fazendo um curso de BootStrap.
+### Também tenho conhecimento em JavaScript, CSS, HTML e PHP.
     
 
 ### 😄
