@@ -2,7 +2,7 @@
 <div> 
   <h1 align="center">
     :wave: Bem vindo ao meu perfil do Github! 
-  <img src="https://media.giphy.com/media/cLwVyXaOzeOIl70Ecx/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/cLwVyXaOzeOIl70Ecx/giphy.gif" width="80" height="80">
    <h1>
 </div>
 
