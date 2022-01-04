@@ -9,7 +9,7 @@
 ### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante da programação.
 
 ### Atualmente estou fazendo um curso de BootStrap.
-### Também tenho conhecimento em JavaScript, CSS, HTML e PHP.
+### Tenho conhecimento em JavaScript, CSS, HTML e PHP.
     
 
 ### 😄
