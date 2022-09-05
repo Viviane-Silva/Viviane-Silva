@@ -9,10 +9,10 @@
    <h1>
 </div>
 
-### Sou estudante de sistemas da informação, curiosa pela tecnologia e amante da programação.
+### Sou estudante de sistemas da informação, curiosa pela tecnologia e da programação. 
 
-### Atualmente estou fazendo um curso de BootStrap.
-### Tenho conhecimento em JavaScript, CSS, HTML, PHP, Python e um pouco de Java.
+### Atualmente estou fazendo um curso de ASP.Net Web API.
+### Tenho conhecimento em JavaScript, CSS, HTML, Java e um pouco de Python.
     
 
 ### 😄
