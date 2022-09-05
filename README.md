@@ -1,8 +1,10 @@
 # Olá!
 <div> 
   <h1 align="center">
+    <img src="https://media.giphy.com/media/jd6TVgsph6w7e/giphy.gif" width="80" height="80">
     Bem vindo ao meu perfil do Github! 
   <img src="https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif" width="80" height="80">
+    
   
    <h1>
 </div>
