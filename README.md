@@ -1,8 +1,10 @@
 # Olá!
 <div> 
   <h1 align="center">
-    :wave: Bem vindo ao meu perfil do Github! 
-  <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="80" height="80">
+    Bem vindo ao meu perfil do Github! 
+ //<img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="80" height="80">
+  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="80" height="80">
+  
    <h1>
 </div>
 
