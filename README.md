@@ -12,7 +12,7 @@
 ### Sou estudante de sistemas da informação, curiosa pela tecnologia e da programação. 
 
 ### Atualmente estou fazendo um curso de ASP.Net Web API.
-### Tenho conhecimento em JavaScript, CSS, HTML, Java e um pouco de Python.
+### Tenho conhecimento em HTML, CSS, JavaScript, CSharp e um pouco de Java.
     
 
 ### 😄
