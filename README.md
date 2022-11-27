@@ -1,10 +1,7 @@
-# Olá! Bem vindo ao meu perfil do Github! 
-<div> 
-  <img src="https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif" width="80" height="80">
-</div>
+# Olá! Bem vindo ao meu perfil do Github!  <img src="https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif" width="80" height="80">
 
 * Sou estudante de sistemas da informação, curiosa pela tecnologia e da programação. 
-* Atualmente estou fazendo um curso de ASP.Net Web API.
+* Atualmente estou estagiando como desenvolvedora web de sistemas.
 * Tenho conhecimento em HTML, CSS, JavaScript, CSharp e um pouco de Java.
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-Silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
