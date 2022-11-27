@@ -1,4 +1,4 @@
-# Olá! Bem vindo ao meu perfil do Github!  <img src="https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif" width="80" height="80">
+# Olá! Bem vindo ao meu perfil do Github!
 
 * Sou estudante de sistemas da informação, curiosa pela tecnologia e da programação. 
 * Atualmente estou estagiando como desenvolvedora web de sistemas.
@@ -10,4 +10,4 @@
 </br>
 
   <h1>Social Media</h1>
-  <a href="https://www.linkedin.com/in/viviane-leite-da-silva-73348b67/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/viviane-leite-da-silva-73348b67/"  ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
