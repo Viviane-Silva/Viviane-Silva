@@ -3,9 +3,9 @@
 * Sou estudante de sistemas da informação, curiosa pela tecnologia e da programação. 
 * Atualmente estou estagiando como desenvolvedora web de sistemas.
 * Tenho conhecimento em HTML, CSS, JavaScript, CSharp e um pouco de Java.
-* E também venho aprendendo React.
+* E também venho aprendendo React e Typescript.
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-Silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-Silva&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   
 </br>
