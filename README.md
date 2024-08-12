@@ -6,7 +6,7 @@ Sou estudante de Sistemas da Informação, apaixonada por tecnologia e programa�
 - **CSS**: Estilizo minhas páginas usando CSS para torná-las visualmente atraentes.
 - **JavaScript**: Programo interações dinâmicas e recursos avançados com JavaScript.
 - **C#**: Tenho experiência em desenvolvimento com C#.
-- **Python**: Estou aprendendo Python e explorando suas possibilidades.
+
 
 Se você tiver alguma pergunta ou quiser colaborar em projetos, sinta-se à vontade para entrar em contato! 😊🚀
 
