@@ -4,7 +4,7 @@ Sou estudante de Sistemas da Informação, apaixonada por tecnologia e programa�
 
 - **HTML**: Desenvolvo páginas web com HTML para criar interfaces amigáveis e funcionais.
 - **CSS**: Estilizo minhas páginas usando CSS para torná-las visualmente atraentes.
-- **JavaScript**: Programo interações dinâmicas e recursos avançados com JavaScript.
+- **JavaScript**: Programo interações dinâmicas com JavaScript.
 - **C#**: Tenho experiência em desenvolvimento com C#.
 
 
