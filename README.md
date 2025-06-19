@@ -5,7 +5,7 @@ Sou a Viviane Silva, formada em **Sistemas da Informação**, com uma boa bagage
 🚀 Apaixonada por tecnologia, aprendizado contínuo e por transformar desafios em soluções inteligentes.
 
 ## 🧠 O que estou estudando atualmente:
-- **Python para Análise de Dados**: pandas, numpy, matplotlib, seaborn
+- **Python**: para análise de dados
 - **SQL**: consultas, modelagem e manipulação de dados
 - **Power BI**: criação de dashboards e visualizações
 - **C# e .NET**: desenvolvimento de aplicações
