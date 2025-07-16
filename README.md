@@ -8,7 +8,6 @@ Sou a Viviane Silva, formada em **Sistemas da Informação**, com uma boa bagage
 - **Python**: para análise de dados
 - **SQL**: consultas, modelagem e manipulação de dados
 - **Power BI**: criação de dashboards e visualizações
-- **C# e .NET**: desenvolvimento de aplicações
 - **HTML • CSS • JavaScript**: construção de interfaces web
 
 ## 🛠️ Tecnologias que uso:
