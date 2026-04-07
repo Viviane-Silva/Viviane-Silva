@@ -1,33 +1,33 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Sou Viviane Silva, formada em Sistemas da Informação e atualmente em transição de carreira para a área de Ciência e Engenharia de Dados.
+Sou **Viviane Silva**, formada em **Sistemas da Informação** e em transição de carreira para **Ciência e Engenharia de Dados**.  
 
-Minha experiência em Suporte Técnico e Desenvolvimento Web me proporcionou uma base sólida em SQL, análise de dados estruturados (JSON, XML, Logs) e diagnóstico de problemas em sistemas SaaS. Agora, estou focada em aplicar essas habilidades para construir pipelines de dados robustos, criar dashboards interativos e desenvolver modelos preditivos com Python.
+Minha experiência em **Suporte Técnico** e **Desenvolvimento Web** me deu uma base sólida em **SQL**, análise de dados estruturados (JSON, XML, Logs) e diagnóstico de sistemas SaaS. Hoje aplico essa bagagem para construir **pipelines de dados**, criar **dashboards interativos** e desenvolver **modelos preditivos em Python**.  
 
-💡 Tenho me dedicado a transformar dados brutos em insights de valor, unindo minha paixão por tecnologia à inteligência de dados.
-
----
-
-## 🚀 Sobre mim e Minha Jornada em Dados
-
-- 🎓 Em formação: Cientista de Dados pela Comunidade DS, com foco em Python, Estatística, Machine Learning e Big Data.
-- 🧠 Base analítica: Experiência prática com SQL Avançado e extração de dados de fontes não estruturadas (JSON, XML, APIs).
-- 🎯 Objetivo: Atuar como Analista, Cientista ou Engenheira de Dados Júnior/Pleno, aplicando Python e SQL para resolver desafios de negócio.
+💡 Tenho como propósito transformar dados brutos em **insights estratégicos**, unindo tecnologia e inteligência de dados para apoiar decisões de negócio.
 
 ---
 
-## 📚 Stack e Conhecimento Atual em Dados
+## 🚀 Minha Jornada em Dados
 
-Meu foco está em desenvolver projetos que demonstrem domínio do ciclo completo de dados: Coleta, Limpeza, Transformação, Análise e Visualização/Modelagem.
-
-- **Linguagens Core:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, SQL Server)
-- **Visualização & BI:** Power BI, Matplotlib, Seaborn
-- **Engenharia de Dados:** APIs REST, Git/GitLab, conceitos de ETL/ELT
-- **Base Técnica:** Experiência com React e Django, trazendo visão de produto para projetos de dados
+- 🎓 Em formação pela **Comunidade DS**: Python, Estatística, Machine Learning e Big Data.  
+- 🧠 Experiência prática com **SQL Avançado**, extração de dados de fontes não estruturadas (JSON, XML, APIs).  
+- 🎯 Objetivo: atuar como **Analista, Cientista ou Engenheira de Dados Júnior/Pleno**, aplicando Python e SQL em soluções de negócio.  
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 📚 Stack e Conhecimentos
+
+Foco em projetos que demonstram domínio do ciclo completo de dados: **Coleta → Limpeza → Transformação → Análise → Visualização/Modelagem**.  
+
+- **Linguagens:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, SQL Server)  
+- **Visualização & BI:** Power BI, Matplotlib, Seaborn  
+- **Engenharia de Dados:** ETL/ELT, APIs REST, Git/GitLab  
+- **Base Técnica Extra:** React e Django, trazendo visão de produto para projetos de dados  
+
+---
+
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,11 +39,20 @@ Meu foco está em desenvolver projetos que demonstrem domínio do ciclo completo
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Projetos em Destaque
+- [ETL com Python e SQL](https://github.com/Viviane-Silva/analise-consumo-mercado-powerbi)  
+- [Assistente de dados com LangChain](https://github.com/Viviane-Silva/desafio-ai-engineer)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viviane-Silva&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+## 📖 Atualmente aprendendo
+- Machine Learning aplicado a dados reais  
+- Integração de LLMs com LangChain  
+- Engenharia de Dados com pipelines ETL/ELT  
+
+---
+
 
 ## 🌐 Onde me encontrar
 
@@ -58,5 +67,5 @@ Meu foco está em desenvolver projetos que demonstrem domínio do ciclo completo
 
 ## ✨ Em busca de oportunidades
 
-Estou aberta a oportunidades para crescer na área de dados e tecnologia.  
+Aberta a oportunidades para crescer na área de **Dados e Inteligência Artificial**.  
 Vamos nos conectar e transformar ideias em soluções baseadas em dados!
