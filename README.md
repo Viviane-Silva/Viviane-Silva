@@ -20,8 +20,8 @@ Minha experiência em **Suporte Técnico** e **Desenvolvimento Web** me deu uma 
 
 Foco em projetos que demonstram domínio do ciclo completo de dados: **Coleta → Limpeza → Transformação → Análise → Visualização/Modelagem**.  
 
-- **Linguagens:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, SQL Server)  
-- **Visualização & BI:** Power BI, Matplotlib, Seaborn  
+- **Linguagens:** Python (Pandas, NumPy), SQL (MySQL, SQL Server)  
+- **Visualização & BI:** Power BI, Looker Studio, Matplotlib, Seaborn  
 - **Engenharia de Dados:** ETL/ELT, APIs REST, Git/GitLab  
 - **Base Técnica Extra:** React e Django, trazendo visão de produto para projetos de dados  
 
